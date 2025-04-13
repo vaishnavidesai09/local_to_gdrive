@@ -1,10 +1,4 @@
-project-folder/
-├── credentials.json
-├── token.json         # (auto-created after login)
-├── my_script.py       # (your Python code)
-├── MyUploads/         # (your local folder with files)
-│   ├── file1.jpg
-│   ├── file2.pdf
+
 
 create virtual env by writing  python -m venv venv command in terminal 
 activate this by .\venv\Scripts\Activate
